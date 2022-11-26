@@ -1,0 +1,21 @@
+{
+    "header":{
+        "nav":[
+            {
+                "li":"Home"
+            },
+            {
+                "li":"About"
+            },
+            {
+                "li":"Services"
+            },
+            {
+                "li":"Portfolio"
+            },
+            {
+                "li":"Contact"
+            }
+        ]
+    }
+}

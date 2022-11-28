@@ -6,9 +6,6 @@ console.log(data);
 header.innerHTML=`
     <div class="container">
         <nav>
-        ${
-            
-        }
             <img src="images/namelogo.png">
             <ul id="nav-cont">${renderHead()}
             </ul>
